@@ -31,8 +31,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Git" width="40" height="40"/>&nbsp;    
                                   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Git" width="40" height="40"/>&nbsp; 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "css3" alt = "CSS3" width = "40" height = "40" />&nbsp;  
-  ---
-                                                                                                                                                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                                                                        
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "css3" alt = "CSS3" width = "40" height = "40" />&nbsp;                                                                                      
                                                                                                                                
 </div>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                      
+                                                                                                                                                
