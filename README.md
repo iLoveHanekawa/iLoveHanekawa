@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 <div>
   <img align = 'center' height = '169px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
 </div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title="Typescript" alt="Java" width="40" height="40"/>
