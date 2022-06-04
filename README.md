@@ -1,6 +1,4 @@
-<div>
-  <img src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
-</div>
+
 <!--
 **iLoveHanekawa/iLoveHanekawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,9 @@ Here are some ideas to get you started:
 -->
 ---
 
+<div>
+  <img src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title="Typescript" alt="Java" width="40" height="40"/>
