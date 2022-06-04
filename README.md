@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ---
 <div>
-  <img height: '49px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
+  <img height = '69px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
 </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
