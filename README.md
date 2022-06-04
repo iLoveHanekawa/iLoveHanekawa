@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div>
+  <img src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
+</div>
 <!--
 **iLoveHanekawa/iLoveHanekawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
