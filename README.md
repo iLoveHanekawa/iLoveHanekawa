@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img align = 'center' height = '169px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
+<div align = 'center'>
+  <img  height = '369px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
 </div>
 
 ---
