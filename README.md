@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title="Typescript" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt = "React" width = "40" height = "40 />&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt = "Tailwind" width = "40" height = "40 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
