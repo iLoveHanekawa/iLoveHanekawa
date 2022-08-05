@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-;)
+
 ---
-<div align = 'center'>
-  <img  height = '369px' src='https://hypixel.net/attachments/chad-jpg.2875466/'/>
-  <div>Mirror for you</div>
-</div>
+
 
 ---
 
